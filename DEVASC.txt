@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+I am on my way to passing the devnet DEVASC exam
+=======
+>>>>>>> test
+I am beginning to understand Git!
+this txt was added originally while in the feature branch
